@@ -11,4 +11,4 @@ Read the [contributing guidelines](CONTRIBUTING.md) for information on how to tr
 
 ---
 
-Analytics: https://plausible.imranr.dev/wiki.obtainium.imranr.dev/
+Analytics: https://ln.imranr.dev/obt-wiki-visits
